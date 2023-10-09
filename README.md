@@ -1,4 +1,4 @@
-# reading-notes
+# My Code Fellow Reading Notes
 
 My Code Fellows reading notes
 
@@ -6,4 +6,4 @@ This is another change...
 
 One more change...
 
-https://github.com/KaitlinDa
+[Github Profile](https://github.com/KaitlinDa)
