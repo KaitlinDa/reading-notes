@@ -42,3 +42,4 @@ cd .. = Moved back one directory, back into projects
 
 ls projects/new-project=List files for projects/new projects.
 
+[Github Profile](https://github.com/KaitlinDa)
