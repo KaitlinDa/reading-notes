@@ -19,3 +19,4 @@
 4.How many times will a <code>while</code> loop execute?
 
 * There is no fixed answer for this. A <code> while </code> loop is always executed when there is a carry bit from one position to another. It will only stop when it is no longer true.
+

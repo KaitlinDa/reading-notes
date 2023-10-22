@@ -15,7 +15,7 @@ Thank you for reading my Lab01b assignment! My name is Kaitlin Davis and I am cu
 [Github Profile](https://github.com/KaitlinDa)
 
 
-## Table of Contents for 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 1. [Reading 1](/102/read01.md)
 1. [Reading 2](/102/read02.md)
@@ -26,7 +26,7 @@ Thank you for reading my Lab01b assignment! My name is Kaitlin Davis and I am cu
 1. [Reading 7](/102/read07.md)
 1. [Reading 8](/102/read08.md)
 
-## Table of Contents for 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 1. [Reading 1](/102/read01.md)
 1. [Reading 2](/102/read02.md)
@@ -43,3 +43,7 @@ Thank you for reading my Lab01b assignment! My name is Kaitlin Davis and I am cu
 1. [Reading 13](/102/read13.md)
 1. [Reading 14](/102/read14.md)
 1. [Reading 15](/102/read15.md)
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
