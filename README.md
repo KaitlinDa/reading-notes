@@ -28,7 +28,7 @@ Thank you for reading my Lab01b assignment! My name is Kaitlin Davis and I am cu
 
 ## Code 201 - Foundations of Software Development
 
-1. [Prompt using AI] (/102/prompt-engineering.md)
+1. [Prompt using AI](/102/prompt-engineering.md)
 1. [Reading 1](/102/read01.md)
 1. [Reading 2](/102/read02.md)
 1. [Reading 3](/102/read03.md)
