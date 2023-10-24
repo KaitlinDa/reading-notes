@@ -8,15 +8,15 @@
 
 * It is important to use semantic elements in HTML, because it gives text meaning. It allows for styling, readability, maintainability, and accessibility.
 
-2. How many levels of headings are there in HTML?
+1. How many levels of headings are there in HTML?
 
 * There are six different heading elements. Each of these elements represent a different level of content in the document. 
 
-3. What are some uses for the <sup> and <sub> elements?
+1. What are some uses for the <sup> and <sub> elements?
 
 * The <code>sup</code> and <code>sub</code> elements stand for superscript and subscript. They can be used in mark up for dates, chemical formulas, and math equations.  
 
-4. When using the <abbr> element, what attribute must be added to provide the full expansion of the term?
+1. When using the <abbr> element, what attribute must be added to provide the full expansion of the term?
 
 * When using the <code>abbr</code> element, you want to make sure add a full expansion of the term in plain text during the first use. 
 
