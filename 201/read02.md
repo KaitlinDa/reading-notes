@@ -4,23 +4,27 @@
 
 ### Introduction to HTML
 
-1. Why is it important to use semantic elements in our HTML?
+<ol>
+
+<li> Why is it important to use semantic elements in our HTML?
 
 * It is important to use semantic elements in HTML, because it gives text meaning. It allows for styling, readability, maintainability, and accessibility.
 
-1. How many levels of headings are there in HTML?
+<li> How many levels of headings are there in HTML?
 
 * There are six different heading elements. Each of these elements represent a different level of content in the document. 
 
-1. What are some uses for the <sup> and <sub> elements?
+<li> What are some uses for the <code>sup </code> and <code>sub</code> elements?
 
 * The <code>sup</code> and <code>sub</code> elements stand for superscript and subscript. They can be used in mark up for dates, chemical formulas, and math equations.  
 
-1. When using the <abbr> element, what attribute must be added to provide the full expansion of the term?
+<li> When using the <abbr> element, what attribute must be added to provide the full expansion of the term?
 
 * When using the <code>abbr</code> element, you want to make sure add a full expansion of the term in plain text during the first use. 
 
 * An example of this is <code>abbr</code> HTML <code>/abbr</code>, Hypertext Markup Language, used to structure code.
+
+</ol>
 
 ### How CSS Is Structured.
 
