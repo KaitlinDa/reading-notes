@@ -14,11 +14,11 @@
 
 2.	List and describe 3 different semantic HTML elements used in an HTML<code> table</code>.
 
-    •	<code> <td></code> represents a standard data table cell. It is used to hold actual data in the table.
+    •	<code>td</code> represents a standard data table cell. It is used to hold actual data in the table.
 
-    •	<code> <th></code> represents a table header cell. It is used to provide labels for the rows and columns.
+    •	<code>th</code> represents a table header cell. It is used to provide labels for the rows and columns.
 
-    •	<code> <tr></code> represents a table row. It is used to group a set of table cells.
+    •	<code>tr</code> represents a table row. It is used to group a set of table cells.
 
 ## Introducing Constructors
 
