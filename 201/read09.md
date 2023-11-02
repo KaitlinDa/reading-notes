@@ -42,7 +42,7 @@
 
 4.	What is the difference between event bubbling and event capturing?
 
-    •	Event buddling and event capturing determine the order in which the event handlers are invoked during the start of an event. Event bubbling starts at the main of the target element and moves up to the ancestors. Event capturing starts at the root and moves down to the target.
+    •	Event bubbling and event capturing determine the order in which the event handlers are invoked during the start of an event. Event bubbling starts at the main of the target element and moves up to the ancestors. Event capturing starts at the root and moves down to the target.
 
 ## Things I want to know more about
 
