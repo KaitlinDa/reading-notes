@@ -45,5 +45,20 @@ Thank you for reading my Lab01b assignment! My name is Kaitlin Davis and I am cu
 1. [Reading 15](/201/read15.md)
 
 ## Code 301 - Intermediate Software Development
+1. [Reading 1](/301/read01.md)
+1. [Reading 2](/301/read02.md)
+1. [Reading 3](/301/read03.md)
+1. [Reading 4](/301/read04.md)
+1. [Reading 5](/301/read05.md)
+1. [Reading 6](/301/read06.md)
+1. [Reading 7](/301/read07.md)
+1. [Reading 8](/301/read08.md)
+1. [Reading 9](/301/read09.md)
+1. [Reading 10](/301/read10.md)
+1. [Reading 11](/301/read11.md)
+1. [Reading 12](/301/read12.md)
+1. [Reading 13](/301/read13.md)
+1. [Reading 14](/301/read14.md)
+1. [Reading 15](/301/read15.md)
 
 ## Code 401 - Advanced Software Development
