@@ -21,7 +21,8 @@
     •A ternary operator is great to use when wanting to make simple decisions in programming. It is short and simple code that allows for quick decisions.
 
 2. Rewrite the following statement using a ternary statement:
- ![Code to simplify using yernary statement](img/testcode.png)
+
+     ![Code to simplify using yernary statement](img/testcode.png)
 
 * Below is the simplified code using a ternary statement:
 
