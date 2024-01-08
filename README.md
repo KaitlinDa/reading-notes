@@ -107,3 +107,4 @@ Thank you for reading my Lab01b assignment! My name is Kaitlin Davis and I am cu
 1. [Reading 43](/401/read43.md)
 1. [SQL Practice](/401/sqlPractice.md)
 1. [Terminal Practice](/401/terminalPractice.md)
+1. [Growth Mindset](/401/growthMindset.md)
