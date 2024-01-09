@@ -109,3 +109,5 @@ Thank you for reading my Lab01b assignment! My name is Kaitlin Davis and I am cu
 1. [Terminal Practice](/401/terminalPractice.md)
 1. [Growth Mindset](/401/growthMindset.md)
 1. [Data Structure](/401/dataStructure.md)
+1. [Engineering Readings](/401/engineeringReadings
+.md)
