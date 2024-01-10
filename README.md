@@ -111,3 +111,6 @@ Thank you for reading my Lab01b assignment! My name is Kaitlin Davis and I am cu
 1. [Data Structure](/401/dataStructure.md)
 1. [Engineering Readings](/401/engineeringReadings
 .md)
+
+## Sources
+I used all the required reading material, TA assistance, and ChatGPT for these reading assignments. 
