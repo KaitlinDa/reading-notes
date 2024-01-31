@@ -14,4 +14,4 @@
 * Encryption is like putting a valuable item Encryption is like putting a valuable item (your message) into a chest and locking it with a special key (the encryption key), so that only people with the correct key can open it. This keeps the item safe from anyone who shouldn't see it. Decryption is the opposite: it's like using the right key to unlock the chest and take out the valuable item, making it accessible again to those who are meant to see it. 
 
 ## Things I want to know more about
-I would like to know how ecryption and decryption is used in how everyday lives with technology. 
+I would like to know how encryption and decryption is used in how everyday lives with technology. 
