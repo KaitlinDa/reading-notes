@@ -101,7 +101,7 @@ Thank you for reading my Lab01b assignment! My name is Kaitlin Davis and I am cu
 1. [Reading 37](/401/read37.md)
 1. [Reading 38](/401/read38.md)
 1. [Reading 39](/401/read39.md)
-1. [Reading 40](/401/read40.md)
+1. [Reading 40](/401/read42b.md)
 1. [Reading 41](/401/read41.md)
 1. [Reading 42](/401/read42.md)
 1. [Reading 43](/401/read43.md)
